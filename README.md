@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Woodywood-head
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning C++, C#, HTML,CSS, Javascript
-- 💞️ I’m looking to collaborate on Anything
+- 🌱 I’m currently a Software Development Graduate Apprentice - Third Year Student
 - 📫 How to reach me stevenorama@gmail.com
 
 <!---
