@@ -56,4 +56,5 @@ $RECYCLE.BIN/
 # JetBrains Rider
 .idea/
 *.sln.iml
-#
+#android/emulator/lib64/qt/lib/Qt6WebEngineCoreAndroidEmu.dll
+java/lib/modules
