@@ -16,7 +16,7 @@
 ## 📬 Let's Connect  
 
 [![Email](https://img.shields.io/badge/Email-Send%20Me%20A%20Message-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenorama@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/steven-woodhead-654736207/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/Woodywood-head)
 
 ---
