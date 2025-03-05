@@ -11,7 +11,7 @@
 
 ## ⚡ Tech Stack  
 
-![Tech Stack](https://skillicons.dev/icons?i=csharp,dotnet,azure,aws,linux,python,typescript,react,tailwind,git,github,vscode&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=csharp,dotnet,azure,aws,python,git,github,vscode&theme=dark)
 
 ## 📬 Let's Connect  
 
