@@ -1,4 +1,4 @@
-# 🚀 **Steven Orama** | @Woodywood-head  
+# 🚀 **Steven** | @Woodywood-head  
 
 ![GitHub Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Woodywood-head&fontSize=50&fontAlign=50&fontAlignY=35)
 
